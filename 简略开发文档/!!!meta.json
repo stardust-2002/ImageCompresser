@@ -1,0 +1,57 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.60.4",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "8vacNZGbY8pE",
+			"notePath": [
+				"8vacNZGbY8pE"
+			],
+			"title": "压缩图片工具",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": false,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "peH2iOzTdJ1p",
+					"isInheritable": false,
+					"position": 1
+				}
+			],
+			"format": "markdown",
+			"dataFileName": "压缩图片工具.md",
+			"dirFileName": "压缩图片工具",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "peH2iOzTdJ1p",
+					"notePath": [
+						"8vacNZGbY8pE",
+						"peH2iOzTdJ1p"
+					],
+					"title": "image.png",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "image",
+					"mime": "image/png",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "image.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "image.png"
+				}
+			]
+		}
+	]
+}
